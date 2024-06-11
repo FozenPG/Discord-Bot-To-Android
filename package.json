@@ -1,0 +1,15 @@
+{
+  "name": "discord-bot-to-android",
+  "version": "1.0.0",
+  "description": "bot de discord para funcionar hospedado em um celular android",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
